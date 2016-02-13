@@ -2,6 +2,8 @@
 Güvenlik kodu (Captcha) sınıfı ile, formlara güvenlik kodu ekleyebilir ve veri girişini güvenli hale getirebiliriz.
 
 ## Örnek Kullanımı
+Sınıfı kullanmadan evvel, oturumu (session) başlatmış olmanız gerekiyor, aksi halde uygulama hata verecektir. 
+
 image.php:
 ```php
 require 'Captcha.php';
