@@ -1,5 +1,5 @@
 {
-  "name": "DemirPHP/Catpcha",
+  "name": "demirphp/catpcha",
   "description": "Form güvenliği için çok basit bir güvenlik kodu sınıfı",
   "keywords": ["captcha", "security", "güvenlik", "form"],
   "homepage": "http://demirphp.com",
@@ -7,10 +7,10 @@
     {
       "name": "Yılmaz Demir",
       "email": "demiriy@gmail.com",
-      "homepage": "http://yilmazdemir.com.tr",
+      "homepage": "http://yilmazdemir.com.tr"
     }
   ],
   "require": {
-    "php": ">=5.4.0
+    "php": ">=5.4.0"
   }
 }
