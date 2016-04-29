@@ -1,11 +1,13 @@
 <?php
 
+namespace DemirPHP;
+
 /**
  * Güvenlik Kodu (Captcha) Sınıfı
  * Formlar için güvenlik kodu oluşturan sınıf
  * @author Yılmaz Demir <demiriy@gmail.com>
  * @link http://demirphp.com
- * @package Captcha
+ * @package DemirPHP\Captcha
  * @version 1.0
  */
  
